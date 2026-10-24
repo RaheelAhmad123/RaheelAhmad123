@@ -20,7 +20,7 @@ Results-driven Prophet 21 (P21) consultant and IT professional focused on API in
 - **Azure:** Azure SQL, Storage Explorer, Data Studio
 
 ## Featured
-- [p21-business-rules](https://github.com/RaheelAhmad123/p21-business-rules): sample Prophet 21 business rules (nightly SQL housekeeping, drop-ship disposition) with built-in logging
+- [p21-business-rules](https://github.com/RaheelAhmad123/p21-business-rules): run scheduled SQL housekeeping in Prophet 21 through the Business Rule Executor, no SQL Agent needed on P21 Cloud
 
 ## Experience
 - **Prophet 21 Consultant**, Lequity LLC (Sep 2023 – present, remote)
