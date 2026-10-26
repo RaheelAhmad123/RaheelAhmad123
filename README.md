@@ -19,9 +19,6 @@ Results-driven Prophet 21 (P21) consultant and IT professional focused on API in
 - **Automation:** Workato recipes, VBA/Excel macros
 - **Azure:** Azure SQL, Storage Explorer, Data Studio
 
-## Featured
-- [p21-business-rules](https://github.com/RaheelAhmad123/p21-business-rules): run scheduled SQL housekeeping in Prophet 21 through the Business Rule Executor, no SQL Agent needed on P21 Cloud
-
 ## Experience
 - **Prophet 21 Consultant**, Lequity LLC (Sep 2023 – present, remote)
 - **.NET Developer**, AI Noor Logics (Apr 2019 – Nov 2022, Islamabad)
